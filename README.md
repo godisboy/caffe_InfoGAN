@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Caffe
 
 [![Build Status](https://travis-ci.org/BVLC/caffe.svg?branch=master)](https://travis-ci.org/BVLC/caffe)
@@ -35,3 +36,9 @@ Please cite Caffe in your publications if it helps your research:
       Title = {Caffe: Convolutional Architecture for Fast Feature Embedding},
       Year = {2014}
     }
+=======
+info GAN
+========
+
+This is a implement of Info GAN on caffe framework. 
+>>>>>>> 071620ca46f0cbaedac75150559e08f187ab5e6d
