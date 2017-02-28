@@ -1,0 +1,13 @@
+net: "models/info_GAN_mnist/infoGAN_mnist_train_val.prototxt"
+debug_info: false
+display: 10
+solver_type: ADAM
+average_loss: 100
+base_lr: 2e-4
+lr_policy: "fixed"
+max_iter: 15000
+momentum: 0.5
+snapshot: 200
+gan_solver: true
+snapshot_prefix: "models/DCGAN_mnist/models/"
+solver_mode: CPU
